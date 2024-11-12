@@ -1,0 +1,219 @@
+1	0	 	CCONJ	V-		 	ROOT	0
+1	1	Πένταθλον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	Πένταθλος	nsubj	0
+1	2	.	PUNCT	Z		.	punct	1
+1	3	Ἅλμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	Ἅλμα	ROOT	3
+1	4	ποδὸς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	πούς	nmod	3
+1	5	δίσκου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	δίσκω	nmod	7
+1	6	τε	CCONJ	C-		τε	cc	7
+1	7	βολὴ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	βολή	conj	3
+1	8	καὶ	CCONJ	C-		καί	cc	7
+1	9	ἄκοντος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἄκων	orphan	10
+1	10	ἐρωή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐρωή	conj	7
+1	11	καὶ	CCONJ	C-		καί	cc	3
+1	12	δρόμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	δρόμος	conj	3
+1	13	ἠδὲ	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	ἠδέ	det	12
+1	14	πάλη·	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πάλη·	punct	3
+1	15	μία	NUM	Ma	Case=Nom|Gender=Fem|Number=Sing	μία	dep	17
+1	16	δ᾿	ADV	Df		δ	discourse	17
+1	17	ἔπλετο	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	πέλω	ROOT	17
+1	18	πᾶσι	ADJ	Px	Case=Dat|Gender=Masc|Number=Plur	πᾶς	iobj	17
+1	19	τελευτή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	τελευτή	nsubj	17
+1	20	.	PUNCT	Z		.	punct	17
+1	21	Ἅλμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	Ἅλμα	ROOT	21
+1	22	πάλη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πάλη	conj	21
+1	23	δίσκευμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	δίσκευμα	conj	21
+1	24	κοντὸς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	κοντός	conj	21
+1	25	καὶ	CCONJ	C-		καί	cc	21
+1	26	δρόμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	δρόμος	conj	21
+1	27	.	PUNCT	Z		.	punct	21
+2	0	 	CCONJ	V-		 	ROOT	0
+2	1	Εἰς	ADP	R-		εἰς	case	4
+2	2	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	4
+2	3	ἐννέα	NUM	Ma		ἐννέα	nummod	4
+2	4	λυρικούς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	λυρικούς	obl	0
+2	5	.	PUNCT	Z		.	punct	4
+2	6	Ἐννέα	NUM	Ma		Ἐννέα	dep	13
+2	7	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	9
+2	8	πρώτων	ADJ	Mo	Case=Gen|Gender=Masc|Number=Plur	πρώτων	nmod	9
+2	9	λυρικῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	λυρικέω	nmod	6
+2	10	πάτρην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	πάτρην	nmod	11
+2	11	γενεήν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	γενεήν	obj	13
+2	12	τε	CCONJ	C-		τε	cc	11
+2	13	μάνθανε	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	μάνθω	ROOT	13
+2	14	,	PUNCT	Z		,	punct	13
+2	15	καὶ	CCONJ	C-		καί	ROOT	15
+2	16	πατέρας	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	πατέρα	ROOT	16
+2	17	καὶ	CCONJ	C-		καί	cc	16
+2	18	διάλεκτον	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	διάλεκτος	obj	19
+2	19	ἄθρει	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἀθρέω	conj	16
+2	20	.	PUNCT	Z		.	ROOT	20
+2	21	ὧν	ADV	Df		ὅς	discourse	25
+2	22	Μιτυληναῖος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Μιτυληναῖος	xcomp	25
+2	23	μὲν	ADV	Df		μέν	discourse	24
+2	24	ἔην	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί	cop	22
+2	25	,	PUNCT	Z		,	ROOT	25
+2	26	γεραρώτερος	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	γεραρώτερος	ROOT	26
+2	27	ἄλλων	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἄλλος	iobj	26
+2	28	Ἀλκαῖος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἀλκαῖος	nsubj	26
+2	29	πρότερος	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	πρότερος	amod	28
+2	30	,	PUNCT	Z		,	iobj	26
+2	31	ἠχικὸς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	ἠχικός	conj	26
+2	32	Αἰολίδης	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Αἰολίδης	amod	31
+2	33	.	PUNCT	Z		.	punct	26
+2	34	ἣ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	37
+2	35	δ᾿	ADV	Df		δ	discourse	37
+2	36	ἐπὶ	ADP	R-		ἐπί	case	37
+2	37	τῷ	PRON	Pp	Case=Dat|Gender=Neut|Number=Sing|Person=3|PronType=Prs	ὁ	iobj	43
+2	38	,	PUNCT	Z		,	advmod	43
+2	39	ξυνὴν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ξυνός	amod	40
+2	40	πάτρην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	πάτρη	obj	43
+2	41	φωνήν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	φωνής	dep	40
+2	42	τε	CCONJ	C-		τε	cc	40
+2	43	δαεῖσα	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	δίαω	advcl	45
+2	44	Σαπφὼ	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	Σαπφώ	appos	43
+2	45	,	PUNCT	Z		,	ROOT	45
+2	46	Κληῖδος	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Κληῖς	nmod	45
+2	47	καὶ	CCONJ	C-		καί	cc	46
+2	48	πατρὸς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	πατήρ	conj	46
+2	49	Εὐρυγύου	PROPN	A-	Case=Gen|Gender=Masc|Number=Sing	Εὐρυγύου	amod	48
+2	50	.	PUNCT	Z		.	punct	45
+2	51	Στησίχορος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Στησίχορος	ROOT	51
+2	52	Σικελός·	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Σικελός·	appos	51
+2	53	πάτρη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πάτρα	nsubj	56
+2	54	δέ	ADV	Df		δέ	discourse	56
+2	55	οἱ	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	ὁ	iobj	56
+2	56	Ἱμέρα	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	Ἱμέρα	appos	51
+2	57	ἐστίν·	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐστίν·	punct	51
+2	58	Εὐφήμου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Εὐφήμου	nmod	59
+2	59	πατρὸς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	πατήρ	ROOT	59
+2	60	,	PUNCT	Z		,	punct	59
+2	61	Δωρικὸς	PROPN	A-	Case=Nom|Gender=Masc|Number=Sing	Δωρικός	ROOT	61
+2	62	ἁρμονίην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἁρμονίην	obj	61
+2	63	.	PUNCT	Z		.	punct	61
+2	64	Ἴβυκος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἴβυκος	nsubj	68
+2	65	Ἰταλὸς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἰταλός	appos	64
+2	66	ἐκ	ADP	R-		ἐκ	case	67
+2	67	Ρηγίου	PROPN	Ne	Case=Gen|Gender=Neut|Number=Sing	Ρηγίου	nmod	64
+2	68	ἠὲ	ADV	Df		ἤ	ROOT	68
+2	69	Μεσήνης	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	Μεσήνης	nsubj	68
+2	70	Ἠελίδα	PROPN	Nb	Case=Dat|Gender=Masc|Number=Sing	Ἠελίδα	obl	72
+2	71	πατρὸς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	πατήρ	appos	70
+2	72	,	PUNCT	Z		,	punct	68
+2	73	Δωρίδα	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	Δωρίδα	nsubj	75
+2	74	δ᾿	ADV	Df		δ	discourse	75
+2	75	ἡρμόσατο	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἡρμόσατο	ROOT	75
+2	76	.	PUNCT	Z		.	punct	75
+2	77	Παρθενίου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Παρθενίου	nmod	81
+2	78	δὲ	ADV	Df		δέ	discourse	81
+2	79	πατρὸς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	πατήρ	nmod	81
+2	80	λιγυρὸς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	λιγυρός	amod	81
+2	81	πάις	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	πάις	nsubj	85
+2	82	ἠετιήου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	ἠετιήου	dep	81
+2	83	εἴδει	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	εἶδος	obl	84
+2	84	μελπόμενος	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	μελπόμεν	acl	81
+2	85	,	PUNCT	Z		,	ROOT	85
+2	86	Τήιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Τήιος	amod	87
+2	87	Ἀνακρέων	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἀνακρέων	appos	85
+2	88	.	PUNCT	Z		.	punct	85
+2	89	Πίνδαρος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Πίνδαρος	nsubj	91
+2	90	ἦν	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί	cop	91
+2	91	Θηβαῖος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Θηβαῖος	ROOT	91
+2	92	,	PUNCT	Z		,	punct	91
+2	93	ἀτὰρ	ADV	Df		ἀτάρ	discourse	94
+2	94	πατρὸς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	πατήρ	ROOT	94
+2	95	Σκοπελίνου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Σκοπελίνου	appos	94
+2	96	,	PUNCT	Z		,	appos	94
+2	97	Δώριον	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	Δώριος	amod	99
+2	98	αἰνήσας	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	αἰνήω	advcl	94
+2	99	ἁρμονίην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἁρμονίην	obj	98
+2	100	ἐπέων	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	ἐπέων	nmod	99
+2	101	.	PUNCT	Z		.	punct	94
+2	102	ἠδὲ	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	ἠδέ	nsubj	110
+2	103	Σιμωνίδεω	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Σιμωνίδης	nmod	102
+2	104	Κείου	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	Κείου	appos	103
+2	105	Δωριστὶ	ADV	Df		Δωριστί	advmod	106
+2	106	λαλοῦντος	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	λαλέω	acl	103
+2	107	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	108
+2	108	πατέρ᾿	ADV	Nb		πατέρ᾿	obj	109
+2	109	αἰνήσας	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	αἰνήω	advcl	110
+2	110	ἴσθι	AUX	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	οἶδα	ROOT	110
+2	111	Λεωπρεπέα	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Λεωπρεπέα	xcomp	110
+2	112	.	PUNCT	Z		.	punct	110
+2	113	ἶσα	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἴσος	obj	114
+2	114	δαεὶς	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	δάω	dislocated	122
+2	115	καὶ	ADV	Df		καί	advmod	116
+2	116	Κεῖος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Κεῖος	advcl	122
+2	117	ἐὼν	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί	cop	116
+2	118	γενεῇ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	γενεά	obl	119
+2	119	μελοποιὸς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	μελοποιός	advcl	116
+2	120	Μίλωνος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Μίλων	nmod	121
+2	121	πατέρος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	πατέρος	xcomp	122
+2	122	ἔπλετο	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	πέλω	ROOT	122
+2	123	Βακχυλίδης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Βακχυλίδης	nsubj	122
+2	124	.	PUNCT	Z		.	punct	122
+2	125	Ἀλκμὰν	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἀλκμάν	nsubj	129
+2	126	ἐν	ADP	R-		ἐν	case	127
+2	127	Λυδοῖσι	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	Λυδός	obl	129
+2	128	μέγα	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	μέγα	advmod	129
+2	129	πρέπει·	VERB	Z	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	πρέπει·	ROOT	129
+2	130	ἀλλὰ	CCONJ	C-		ἀλλά	cc	135
+2	131	Δάμαντος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Δάμας	nsubj	135
+2	132	ἐστὶ	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	131
+2	133	καὶ	ADV	Df		καί	advmod	135
+2	134	ἐκ	ADP	R-		ἐκ	case	135
+2	135	Σπάρτης	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Σπάρτης	ROOT	135
+2	136	,	PUNCT	Z		,	dislocated	135
+2	137	Δωρίδος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	Δωρίδος	amod	138
+2	138	ἁρμονίης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἁρμονίης	nmod	135
+2	139	.	PUNCT	Z		.	punct	135
+2	140	Λυρικοὶ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	Λυρικός	advmod	141
+2	141	ποιηταὶ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	ποιητής	ROOT	141
+2	142	μουσικῶν	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	μουσικός	amod	143
+2	143	ᾀσμάτων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	ᾀσμάτων	nmod	141
+2	144	ἐννέα·	NUM	Ma		ἐννέα·	nummod	141
+2	145	ἐννέα	NUM	Ma		ἐννέα	ROOT	145
+2	146	δὲ	ADV	Df		δέ	discourse	145
+2	147	καὶ	ADV	Df		καί	advmod	145
+2	148	αἱ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	154
+2	149	καθ᾿	ADP	R-		καθ᾿	case	150
+2	150	ἡμᾶς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς	det	154
+2	151	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	153
+2	152	θείων	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	θείων	amod	153
+2	153	ᾀσμάτων	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	ᾀσμάτων	nmod	154
+2	154	ὠδαί	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	ὠδαί	nsubj	145
+2	155	.	PUNCT	Z		.	punct	145
+2	156	|	CCONJ	C-		|	cc	164
+2	157	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	159
+2	158	δὲ	ADV	Df		δέ	discourse	164
+2	159	ὀνόματα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	ὀνόματος	nsubj	164
+2	160	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	162
+2	161	προειρημένων	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	προειρημένων	acl	162
+2	162	λυρικῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	λυρικέω	nmod	159
+2	163	εἰσὶ	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	164
+2	164	τάδε·	ADJ	Pd	Case=Nom|Gender=Neut|Number=Plur	τάδε·	ROOT	164
+2	165	Ἀλκμὰν	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἀλκμάν	ROOT	165
+2	166	Ἀλκαῖος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἀλκαῖος	conj	165
+2	167	Σαπφὼ	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	Σαπφώ	conj	165
+2	168	Στησίχορος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	Στησίχορος	conj	165
+2	169	Ἴβυκος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἴβυκος	conj	165
+2	170	Ἀνακρέων	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἀνακρέων	conj	165
+2	171	Σιμωνίδης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Σιμωνίδης	conj	165
+2	172	Βακχυλίδης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Βακχυλίδης	conj	165
+2	173	καὶ	CCONJ	C-		καί	cc	165
+2	174	Πίνδαρος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Πίνδαρος	conj	165
+2	175	.	PUNCT	Z		.	punct	165
+2	176	Ἐννέα	NUM	Ma		Ἐννέα	ROOT	176
+2	177	δὲ	ADV	Df		δέ	discourse	176
+2	178	οἱ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	179
+2	179	λυρικοί·	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	λυρικοί·	nsubj	176
+2	180	Ἀλκαῖος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἀλκαῖος	ROOT	180
+2	181	Σαπφὼ	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	Σαπφώ	conj	180
+2	182	Στησίχορος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	Στησίχορος	conj	180
+2	183	Ἴβυκος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἴβυκος	conj	180
+2	184	Βακχυλίδης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Βακχυλίδης	conj	180
+2	185	Σιμωνίδης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Σιμωνίδης	conj	180
+2	186	Ἀλκμὰν	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	Ἀλκμάν	conj	180
+2	187	Ἀνακρέων	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἀνακρέων	conj	180
+2	188	καὶ	CCONJ	C-		καί	cc	187
+2	189	Πίνδαρος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Πίνδαρος	conj	187
+2	190	.	PUNCT	Z		.	punct	180
